@@ -1,0 +1,378 @@
+﻿
+@{
+    ViewBag.Title = "Bill_Payment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+   
+   <script>
+
+       $(function () {
+           $('#URGENT_TYPE').on('change', function (e) {
+               e.stopPropagation();
+               this.value = this.checked ? true : false;
+
+           });
+       })
+
+
+       function INSERT() {
+
+
+
+           var MR_NO = $('#MR_NO').val()
+           var NAME = $('#NAME').val()
+           var FATHER_NAME = $('#FATHER_NAME').val()
+           var GENDER = $('#GENDER').val()
+           var MOBILE = $('#MOBILE').val()
+           var HOME_CONTACT = $('#HOME_CONTACT').val()
+           var MARITAL_STATUS = $('#MARITAL_STATUS').val()
+           var DOB = $('#DOB').val()
+           var EMAIL = $('#EMAIL').val()
+           var CITY = $('#CITY').val()
+           var CNIC = $('#CNIC').val()
+           var ADDRESS = $('#ADDRESS').val()
+
+
+           if (NAME == "" || FATHER_NAME == "" || GENDER == "" || MARITAL_STATUS == "" || DOB == "") {
+
+               alert("Error");
+           }
+           else {
+
+           $.ajax({
+               url: 'Home/INSERT_PAT_REG', type: 'post', data: {
+                   MR_NO: MR_NO,
+                   NAME: NAME,
+                   FATHER_NAME: FATHER_NAME,
+                   GENDER: GENDER,
+                   MOBILE: MOBILE,
+                   HOME_CONTACT: HOME_CONTACT,
+                   MARITAL_STATUS: MARITAL_STATUS,
+                   DOB: DOB,
+                   EMAIL: EMAIL,
+                   CITY: CITY,
+                   CNIC: CNIC,
+                   ADDRESS: ADDRESS,
+                   USER: 'user'
+               },
+               success: function (data) {
+
+                   $('#MR_NO').val(data);
+                   for (var i = 0; i < $("#selecttest tr").length; i++) {
+
+                       $.ajax({
+
+                           url: 'Home/INSERT_D',
+                           type: 'post',
+                           data:
+                           {
+                               Invoice: '0',
+                               MR_NO: data,
+                               TEST_CODE: $("#selecttest").find('tr').eq(i).find('td').eq(0).text(),
+                               QTY: $("#selecttest").find('tr').eq(i).find('td').eq(1).text(),
+                               URGENT_TYPE: $("#selecttest").find('tr').eq(i).find('td').eq(3).text(),
+                               SPECIAL_INSTRUCTION: $("#selecttest").find('tr').eq(i).find('td').eq(4).text(),
+                               AMOUNT: $("#selecttest").find('tr').eq(i).find('td').eq(2).text(),
+                               USER: 'User'
+                           },
+                           success: function (data) {
+                               // RESET();
+                           },
+                           error: function (reponse) {
+
+
+
+                           }
+
+                       })
+
+
+
+
+                   }
+
+                   //  RESET();
+               },
+               error: function (reponse) {
+
+
+
+               }
+           });
+
+
+
+            }
+
+       }
+       function addrow() {   
+
+
+
+                        var TEST_CODE = $('#TEST_CODE').val();
+                       var QTY = $('#QTY').val();
+                       var AMOUNT = $('#AMOUNT').val();
+           var SPE = $('#spec').val();
+           
+                       var html = ' <tr>' +
+                           ' <td class="col-md-3" >' + TEST_CODE + '</td > ' +
+                           ' <td class="col-md-1" id="selectqty">' + QTY + '</td>' +
+                           ' <td class="col-md-2" id="selectamount">' + AMOUNT + '</td>' +
+                           ' <td class="col-md-2" id="selectamount">' + $('#URGENT_TYPE').val() + '</td>' +
+                           ' <td class="col-md-2" id="selectamount">' + SPE + '</td>' +
+                           
+                           '  <td align="right">' +
+                           ' <button onclick="javascript:deleterow(this)" style="background-color:transparent"><span class=" gly gly_red  glyphicon glyphicon-minus-sign pull-right"></span></button>' +
+                           '   <button style="background-color:transparent"><span class="gly gly_info glyphicon glyphicon-edit"></span></button>' +
+                           ' </td>' +
+                           '</tr>'
+                       $('#selecttest').append(html);
+           //var totamount = 0;
+
+           $('#TOTAL_AMOUNT').text(parseInt($('#TOTAL_AMOUNT').text()) + parseInt( AMOUNT));
+
+                       //for (var i = 0; i < $('#selecttest tr').length; i++) {
+                       //    totamount += $('#selecttest tr').eq(i).find('td')[i].innerHTML;
+                       //}
+                       //$('#amount').html(totamount);
+
+          
+
+
+                   }
+             
+
+           function deleterow(element) {
+               element.closest('tr').remove()
+           }
+
+   </script>
+
+</head>
+<body>
+    <h4 class="bg-info">Bill_Payment</h4>
+    <div class="row">
+
+        <div class="col-md-12">
+            <br />
+            <div class="panel panel-primary  thumbnail">
+                <div class="panel-heading alert heading">
+                    Patient Detail
+                    <button class="button"> <a href="New_Patient.html" style="color:#FFF;"><span class="  glyphicon glyphicon-plus-sign pull-right"></span></a></button>
+                </div>
+                <form>
+                    <div class="panel-body">
+                        <h4>Search</h4>
+                        <select class="form-control">
+                            <option>Patient Name 01</option>
+                            <option>Patient Name 02</option>
+                            <option>Patient Name 03</option>
+                            <option>Patient Name 04</option>
+                        </select>
+                    </div>
+                </form>
+                <div class="panel-body">
+
+                    <!---------------------------------------------<h1>Laboratary Test Requisition </h1>----------------------->
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+
+                            <label>MR No.</label>
+                            <input class="form-control" readonly="true" id="MR_NO" placeholder="MR no.." value="0" />
+
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+                            <label>Name</label>
+                            <input class="form-control" id="NAME" placeholder="Name.." />
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+
+                            <label>Guardian</label>
+                            <input class="form-control" id="FATHER_NAME" placeholder="Father/Husband Name.." />
+                        </div>
+
+
+
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+
+                            <label>Gender</label>
+                            <input class="form-control" id="GENDER" placeholder="Gender.." />
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+
+                            <label>Mobile No.</label>
+                            <input class="form-control" id="MOBILE" placeholder="Mobile No.." />
+                        </div>
+
+
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+
+                            <label>Home Contact</label>
+                            <input class="form-control" id="HOME_CONTACT" placeholder="Home Contact.." />
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+
+                            <label>Martial_Status</label>
+                            <select class="form-control" id="MARITAL_STATUS">
+                                <option>Single</option>
+                                <option>Married</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+                            <label>DOB</label>
+                            <input type="date" class="form-control" id="DOB" />
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+
+                            <label>Email</label>
+                            <input class="form-control" id="EMAIL" placeholder="Email.." />
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+                            <label>City</label>
+                            <select class="form-control" id="CITY">
+                                <option>Karachi</option>
+                                <option>Lahore</option>
+                                <option>Multan</option>
+                                <option>Islamabad</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+
+                            <label>CNIC NO.</label>
+                            <input class="form-control" id="CNIC" placeholder="CNIC NO." />
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+
+                            <label>Address</label><br />
+                            <textarea id="ADDRESS" class="form-control"></textarea>
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-md-8">
+            <div class="panel panel-primary thumbnail">
+                <div class="panel-heading heading">Add Orders</div>
+
+                <div class="panel-body">
+                    <div class="table-responsive">
+                        <table class="table" id="addtest">
+                            <tr><th>Procdure</th><th>Qty</th><th>Amount (RS)</th><th class="col-md-1">Urgent</th><th>Instruction</th></tr>
+                            <tr>
+                                <td class="col-md-3">
+                                    <select class="form-control" id="TEST_CODE">
+                                        <option>CBC</option>
+                                    </select>
+                                </td>
+                                <td class="col-md-1">
+                                    <input type="text" class="form-control " onKeyUp="numbersonly(this)" id="QTY" />
+                                </td>
+                                <td class="col-md-2">
+                                    <input type="text" class="form-control" id="AMOUNT" />
+                                </td>
+                                <td align="center">
+                                    <input class="form-control" type="checkbox" id="URGENT_TYPE" />
+                                </td>
+                                <td>
+                                    <button class="btn btn-primary" data-target="#instruction" data-toggle="modal">
+                                        <span class=" glyphicon glyphicon-comment" id="SPECIAL_INSTRUCTION"></span>
+                                    </button>
+                                </td>
+
+                                <!-----------------------------------------------Popup for comment------------------------------------>
+
+                                <div class="modal fade in" id="instruction">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <div class="modal-header bg-primary">
+                                                <h3>Special Instruction</h3>
+                                            </div>
+                                            <div class="modal-body">
+                                                <textarea id="spec" class="form-control"></textarea>
+                                            </div>
+
+                                            <div class="modal-footer">
+                                                <button class="btn btn-default " data-dismiss="modal">Close</button>
+                                                <button class="btn btn-default">Save</button>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+                                <!-----------------------------------------------Popup for comment------------------------------------>
+
+                                <td align="right" style="background-color:transparent">
+                                    <button onclick="addrow()"><span class="gly glyphicon glyphicon-plus-sign pull-right"></span></button>
+                                </td>
+
+                            </tr>
+
+                        </table>
+                        <!--------------------------------------------------------------Add selected test --------------------->
+                        <table class="table" id="selecttest">
+                        </table>
+                    </div>
+
+
+                </div>
+
+
+
+            </div>
+
+
+
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-primary thumbnail">
+                <div class="panel-heading heading">Bill</div>
+                <form>
+                    <div class="panel-body">
+                        <div class="table-responsive">
+
+                            <table align="right" class=" table table-striped">
+                                <tr>
+                                    <th>Total Amount</th>
+                                    <th id="TOTAL_AMOUNT"></th>
+                                </tr>
+                                <tr>
+                                    <th>Return Amount</th>
+                                    <th id="RETURN_AMOUNT">5000</th>
+                                </tr>
+                                <tr>
+                                    <th>Balance Amount</th>
+                                    <th id="BALANCE_AMOUNT">5000</th>
+                                </tr>
+                                <tr>
+                                    <th>Paid Amount</th>
+                                    <th id="PAID_AMOUNT">50000</th>
+                                </tr>
+                                <tr>
+                                    <td align="justify"><button type="button" class="btn btn-success" onclick="INSERT()"> Save </button>  </td>
+                                </tr>
+                            </table>
+
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<!-------page header finish --------->

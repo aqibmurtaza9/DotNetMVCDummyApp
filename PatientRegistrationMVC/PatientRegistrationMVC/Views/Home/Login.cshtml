@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/_Layout2.cshtml";
+}
+
+
+   
+
+    <script>
+        function myfun() {
+        var user=$('#txtuser').val()
+        var pass=$('#txtpass').val()
+     
+            $.ajax({
+                url: '/Home/User_Login',
+                type: 'POST',
+                data: {
+                    un : user , pass:pass
+                },
+                success: function (data) {
+                    location.reload();
+                }
+
+            });
+        }
+
+
+    </script>
+    
+   
+        <div id="login_form">
+            <div class="row">
+                <div class="col-md-4"></div>
+
+                <div class="col-md-5" >
+                    <div class="panel "  >
+                        <div class="panel-heading"><h2 align="center" style="color:black"><b>Login In</b></h2></div>
+                        <div class="panel-body">
+
+                            <div class="input-group ">
+                                <span class="input-group-addon ">
+                                    <i class="glyphicon glyphicon-user "></i>
+                                </span>
+                                <input type="text" id="txtuser" class="form-control" placeholder="USER NAME">
+                            </div>
+
+                            <br />
+
+                            <div class="input-group">
+                                <span class="input-group-addon">
+                                    <i class="glyphicon glyphicon-lock"></i>
+                                </span>
+                                <input type="text" id="txtpass" class="form-control" placeholder="USER PASSWORD">
+                            </div>
+
+                            <center>
+                                <br />
+                                <br />
+                                <button onclick="myfun()" class=" btn btn-primary login_btn">Login</button> &nbsp; &nbsp;<a href="#" class="alert-link">Forgetten Password</a>
+                            </center>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-md-4"></div>
+            </div>
+        </div>
+  
+
+
+
+
+
+

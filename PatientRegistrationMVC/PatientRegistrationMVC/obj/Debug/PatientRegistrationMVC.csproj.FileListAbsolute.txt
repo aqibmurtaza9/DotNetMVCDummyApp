@@ -1,0 +1,456 @@
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.dll.config
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.pdb
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe.config
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.rsp
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe.config
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.rsp
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.AppContext.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Console.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Http.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Sockets.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.ValueTuple.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XPath.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.exe
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.exe.config
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.rsp
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\VBCSCompiler.exe
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Helpers.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Mvc.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Razor.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Deployment.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Razor.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Razor.xml
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.xml
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Deployment.xml
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Razor.xml
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Helpers.xml
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Mvc.xml
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.dll
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.pdb
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csprojAssemblyReference.cache
+D:\BBSYD\8 Videos lecture .Net\42 MVC 5 Lecture\MVC\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csproj.CopyComplete
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.dll.config
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.pdb
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe.config
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.rsp
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe.config
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.rsp
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Console.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.exe
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.exe.config
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.rsp
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Helpers.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Mvc.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Razor.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Razor.xml
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.xml
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Helpers.xml
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Mvc.xml
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csproj.CopyComplete
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.pdb
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.dll.config
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.pdb
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe.config
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.rsp
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe.config
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.rsp
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Managed.Core.targets
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.AppContext.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Collections.Immutable.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Console.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Globalization.Calendars.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Http.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Sockets.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Reflection.Metadata.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.ValueTuple.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XmlDocument.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XPath.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.exe
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.exe.config
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.rsp
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\VBCSCompiler.exe
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\VBCSCompiler.exe.config
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.Web.Infrastructure.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Helpers.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Mvc.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Razor.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Deployment.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Razor.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Razor.xml
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.xml
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Deployment.xml
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Razor.xml
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Helpers.xml
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Mvc.xml
+I:\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csprojAssemblyReference.cache
+I:\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csproj.CopyComplete
+I:\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.dll
+I:\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.pdb
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc (2).exe
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc (2).rsp
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe (2).config
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi (2).exe
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi (2).rsp
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe (2).config
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CSharp.Core (2).targets
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Managed.Core (2).targets
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.VisualBasic.Core (2).targets
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Win32.Primitives (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.AppContext (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Collections.Immutable (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Console (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.DiagnosticSource (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.StackTrace (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Globalization.Calendars (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.ZipFile (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.Primitives (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Http (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Sockets (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Reflection.Metadata (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (2).dll
+C:\Users\Fahad\OneDrive\Desktop\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csprojAssemblyReference.cache
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.dll.config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.pdb
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc (2).exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc (2).rsp
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe (2).config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe.config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.rsp
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi (2).exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi (2).rsp
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe (2).config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe.config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.rsp
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CSharp.Core (2).targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Managed.Core (2).targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.VisualBasic.Core (2).targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Win32.Primitives (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.AppContext (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.AppContext.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Collections.Immutable (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Console (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Console.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.DiagnosticSource (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.StackTrace (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Globalization.Calendars (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.ZipFile (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.Primitives (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Http (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Http.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Sockets (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Sockets.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Reflection.Metadata (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.ValueTuple.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XPath.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.exe.config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.rsp
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\VBCSCompiler.exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Helpers.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Mvc.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Razor.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Deployment.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Razor.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Razor.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Deployment.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Razor.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Helpers.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Mvc.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csproj.CoreCompileInputs.cache
+D:\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csproj.CopyComplete
+D:\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.pdb
+D:\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csprojAssemblyReference.cache
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.dll.config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\PatientRegistrationMVC.pdb
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc (2).exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc (2).rsp
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe (2).config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.exe.config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csc.rsp
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi (2).exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi (2).rsp
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe (2).config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.exe.config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\csi.rsp
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CSharp.Core (2).targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Managed.Core (2).targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.VisualBasic.Core (2).targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Win32.Primitives (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.AppContext (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.AppContext.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Collections.Immutable (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Console (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Console.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.DiagnosticSource (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.StackTrace (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Globalization.Calendars (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.ZipFile (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.Primitives (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Http (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Http.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Sockets (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Net.Sockets.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Reflection.Metadata (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation (2).dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.ValueTuple.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XPath.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.exe.config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\vbc.rsp
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\VBCSCompiler.exe
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Helpers.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Mvc.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Razor.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Deployment.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Razor.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Razor.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Deployment.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Webpages.Razor.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Helpers.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\System.Web.Mvc.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csproj.CoreCompileInputs.cache
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csproj.CopyComplete
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.dll
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.pdb
+D:\PatientRegistrationMVC\PatientRegistrationMVC\PatientRegistrationMVC\obj\Debug\PatientRegistrationMVC.csprojAssemblyReference.cache

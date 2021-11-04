@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "All_Patient";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4 class="bg-info">All_Patient</h4>
+
+<!-------page header finish --------->
+<!--------table----------------->
+<div class="table-responsive">
+    <br />
+    <table class="table">
+        <tr>
+            <th>MR .NO</th>
+            <th>NAME</th>
+            <th>AGE</th>
+            <th>MOBILE NO</th>
+            <th>GENDER</th>
+            <th>REGISTRATION DATE</th>
+            <th>APPOINTMENT</th>
+            <th>STATUS</th>
+            <th>VIEW</th>
+        </tr>
+      
+            <tr>
+                <th><input type="text" class="form-control" /></th>
+                <th><input type="text" class="form-control" /></th>
+                <th><input type="text" class="form-control" /></th>
+                <th><input type="text" class="form-control" /></th>
+                <th><select class="form-control"><option>--Select--</option><option>MALE</option><option>FEMALE</option><option>OTHERS</option></select></th>
+                <th><input type="text" class="form-control" /></th>
+                <th><input type="text" class="form-control" readonly /></th>
+                <th><select class="form-control"><option>--Select--</option><option>OPTION1</option><option>OPTION2</option><option>OPTION3</option></select></th>
+                <th><input type="text" class="form-control" readonly /></th>
+            </tr>
+               
+            <tr align="">
+                <td>20000-12</td>
+                <td>Ali</td>
+                <td>26</td>
+                <td>0344-8346160</td>
+                <td>male</td>
+                <td>23-5-2019</td>
+                <td>yes</td>
+                <td><input type="checkbox" /></td>
+                <td><span class="glyphicon glyphicon-eye-open"></span></td>
+            </tr>
+     
+    </table>
+</div>
+<!----------table----------->
